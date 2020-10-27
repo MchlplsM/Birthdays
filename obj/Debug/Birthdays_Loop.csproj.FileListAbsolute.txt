@@ -1,0 +1,7 @@
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\bin\Debug\Birthdays_Loop.exe.config
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\bin\Debug\Birthdays_Loop.exe
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\bin\Debug\Birthdays_Loop.pdb
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\obj\Debug\Birthdays_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\obj\Debug\Birthdays_Loop.exe
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\obj\Debug\Birthdays_Loop.pdb
+C:\Users\Marios\source\repos\Variables\Birthdays_Loop\obj\Debug\Birthdays_Loop.csprojAssemblyReference.cache
